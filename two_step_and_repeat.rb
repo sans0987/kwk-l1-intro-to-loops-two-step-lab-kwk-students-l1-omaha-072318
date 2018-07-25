@@ -16,8 +16,12 @@ def break_dance
   # loop if steps is equal to 6
 end
 
-
-
+loop do 
+  puts "Right foot back"
+  puts "Left foot back"
+  puts "Right foot back"
+  puts "Stop"
+  
 
 
 
